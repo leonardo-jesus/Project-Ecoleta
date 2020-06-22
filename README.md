@@ -19,7 +19,9 @@
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src="/public/assets/ecoleta-video.mp4" width="100%">
+  <video width="100%">
+    <source alt="Ecoleta" src="/public/assets/ecoleta-video.mp4" type="video/mp4">
+  </video>
 </p>
 
 ## 🚀 Tecnologias
