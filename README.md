@@ -19,8 +19,9 @@
 <br>
 
 <p align="center">
-  <video width="100%">
-    <source alt="Ecoleta" src="/public/assets/ecoleta-video.mp4" type="video/mp4">
+  <video width="100%" height="100%">
+    <source src="/public/assets/ecoleta-video.mp4" type="video/mp4">
+    Ecoleta
   </video>
 </p>
 
