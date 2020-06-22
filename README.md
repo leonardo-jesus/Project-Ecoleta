@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src="/public/assets/ecoleta.png" width="100%">
+  <img alt="Ecoleta" src="/public/assets/ecoleta-video.mp4" width="100%">
 </p>
 
 ## 🚀 Tecnologias
