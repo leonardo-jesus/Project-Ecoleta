@@ -18,7 +18,7 @@
 
 <br>
 
-![](ecoleta-video.mp4)
+![Ecoleta](https://media.giphy.com/media/WtgLS691OpyUctB6JZ/source.mov)
 
 ## 🚀 Tecnologias
 
