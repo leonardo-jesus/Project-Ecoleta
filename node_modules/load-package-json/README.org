@@ -1,0 +1,1 @@
+Simple utility to load a package.json file in some parent directory.
