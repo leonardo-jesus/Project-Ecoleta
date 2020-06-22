@@ -19,9 +19,7 @@
 <br>
 
 <p align="center">
-  <video width="100%" height="100%">
-    <source src="/public/assets/ecoleta-video.mp4" type="video/mp4">
-  </video>
+  <iframe src="https://giphy.com/embed/WtgLS691OpyUctB6JZ" width="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/WtgLS691OpyUctB6JZ"></a></p>
 </p>
 
 ## 🚀 Tecnologias
