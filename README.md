@@ -52,4 +52,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<p align="center">Desenvolvido by Leonardo Jesus, na Next Level Week</p>
+<p align="center">Desenvolvido by <a href="https://www.linkedin.com/in/leonardojesus02/">Leonardo Jesus</a>, na Next Level Week</p>
