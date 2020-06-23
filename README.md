@@ -18,7 +18,7 @@
 
 <br>
 
-![Ecoleta](/public/assets/ecoleta-video.gif)
+![Ecoleta](/public/assets/ecoleta-gif.gif)
 
 ## 🚀 Tecnologias
 
