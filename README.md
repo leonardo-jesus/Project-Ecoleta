@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img src="/public/assets/ecoleta-gif" alt="Ecoleta">
+  <img src="./public/assets/ecoleta-gif.gif" alt="Ecoleta">
 </p>
 
 ## 🚀 Technologies
@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-The ***Ecoleta***, is a *Responsive Page* that uses a Database to create and search **Collect Points**. The purpose of the project is, create a **Marketplace** that *helps* people find **sediment Collection Points** *efficiently*, the page uses **Node.JS**, **Express**, **SQLite**, **Nunjucks**, **HTML**, **CSS** and **Javascript**.
+The ***Ecoleta***, is a *Responsive Page* that uses a Database to create and search **Collect Points**. The purpose of the project is, create a **Marketplace** that *helps* people find **sediment Collection Points** *efficiently*. The page uses **Node.JS**, **Express**, **SQLite**, **Nunjucks**, **HTML**, **CSS** and **Javascript**.
 
 ## 🔖 Layout
 
